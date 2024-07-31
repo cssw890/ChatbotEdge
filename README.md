@@ -30,3 +30,7 @@ Horizon Sunrise X3 Pi
     tar xvf vits-piper-en_US-amy-low.tar.bz2
     rm vits-piper-en_US-amy-low.tar.bz2
     ```
+3. Start the program
+    ```bash
+    python3 main.py
+    ```
